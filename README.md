@@ -5,9 +5,7 @@ Snk Shortcodes has one of the most complete icons sets available on all of WordP
 
 Features
 --------
-* **Provide updates for plugins and themes.**    
 
-  From the users perspective, the updates work just like they do with plugins and themes listed in the official WordPress.org directory.
 * **Easy to set up.**
 
   Just upload the script directory to your server and drop a plugin or theme ZIP in the `packages` subdirectory. Now you have a working update API at `http://yourserver.com/wp-update-server/?action=get_metadata&slug=your-plugin`.
@@ -15,6 +13,15 @@ Features
 * **Minimal server requirements.**
 
   The server component requires PHP 5.3+ and the Zip extension. The client library only requires PHP 5.2 - same as the current version of WordPress.
+  
+* 30+ beautiful shortcodes
+* 1-click shortcode insertion with live preview
+* Works with any theme
+* Modern responsive design
+* Documentation
+* Translation-ready
+* RTL support
+* Developer-friendly
 
 License
 --------
