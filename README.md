@@ -16,6 +16,7 @@ Features
 
   The server component requires PHP 5.3+ and the Zip extension. The client library only requires PHP 5.2 - same as the current version of WordPress.
 
-* **License.**
+License
+--------
 
   Licensed under GPLv3, see license.txt file.
